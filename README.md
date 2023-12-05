@@ -13,7 +13,7 @@ npm install
 ### Run React dev server
 
 ```
-npm start dev
+npm run dev
 ```
 
 ### Run the JSON server
