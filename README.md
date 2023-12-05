@@ -1,4 +1,4 @@
-# Task Tracker App
+# React Task Tracker App
 
 Basic task tracker app created using React.js using components, props, states, hooks, API's and routing.
 
